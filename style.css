@@ -1,0 +1,11 @@
+.fondo_de_barra{
+    background-color: rgb(168, 129, 135);
+}
+.container{
+    height: 500px;
+    background-color: blueviolet;
+}
+.logo{
+    width: 50px;
+    border-radius: 6px;
+}
